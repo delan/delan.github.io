@@ -1,0 +1,3 @@
+[submodule "labs/charming"]
+	path = labs/charming
+	url = https://github.com/delan/charming
