@@ -1,3 +1,6 @@
 [submodule "labs/charming"]
 	path = labs/charming
 	url = https://github.com/delan/charming
+[submodule "labs/cabinvis"]
+	path = labs/cabinvis
+	url = https://github.com/delan/cabinvis
