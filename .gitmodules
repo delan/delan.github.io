@@ -4,3 +4,6 @@
 [submodule "labs/cabinvis"]
 	path = labs/cabinvis
 	url = https://github.com/delan/cabinvis
+[submodule "labs/fourtwenty"]
+	path = labs/fourtwenty
+	url = https://github.com/delan/fourtwenty
